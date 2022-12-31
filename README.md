@@ -2,9 +2,7 @@
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumWXPRaz5Tspdb7uwCbFnEWHf9V2obK6Lnw&usqp=CAUt" alt="dinako81" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP in BIT**
-
 - 👯 I’m looking to collaborate on **succesful projects**
-
 - 📫 How to reach me **dina.koliata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
