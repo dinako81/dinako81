@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP in BIT**
 - 👯 I’m looking to collaborate on **succesful projects**
-- 📫 How to reach me **dina.koliata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +10,6 @@
 <a href="https://fb.com/dina ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dina ko" height="30" width="40" /></a>
   
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinako81&show_icons=true&locale=en&layout=compact" alt="dinako81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinako81&show_icons=true&locale=en" alt="dinako81" /></p>
