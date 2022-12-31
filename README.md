@@ -1,5 +1,5 @@
 <h1 align="center">Hello world🎄🎅, I'm Dina</h1>
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumWXPRaz5Tspdb7uwCbFnEWHf9V2obK6Lnw&usqp=CAUt" alt="dinako81" /> </p>
+<p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumWXPRaz5Tspdb7uwCbFnEWHf9V2obK6Lnw&usqp=CAUt" alt="dinako81" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP in BIT**
 
